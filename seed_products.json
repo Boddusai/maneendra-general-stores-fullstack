@@ -1,0 +1,1415 @@
+[
+  {
+    "name": "India Gate Premium Basmati Rice",
+    "category": "Rice & Grains",
+    "unit": "5 kg",
+    "price": 749,
+    "stock": 18,
+    "image": "https://hiramart.net/cdn/shop/products/IndiaGate5Kgok_700x700.jpg?v=1642473178",
+    "description": "Popular India Gate basmati rice family pack."
+  },
+  {
+    "name": "Tata Sampann Toor Dal",
+    "category": "Pulses & Dal",
+    "unit": "1 kg",
+    "price": 190,
+    "stock": 24,
+    "image": "https://www.tatanutrikorner.com/cdn/shop/files/Tata-Sampann-Toor-Dal-1kg-_FOP_-with-Sanjeev-kapoor_1_6c76e8d3-4abb-4ce8-9b91-767a3417bb2a.png?v=1748858295&width=800",
+    "description": "Unpolished toor/arhar dal from Tata Sampann."
+  },
+  {
+    "name": "Aashirvaad Shudh Chakki Atta",
+    "category": "Flour & Atta",
+    "unit": "5 kg",
+    "price": 310,
+    "stock": 22,
+    "image": "https://img2.exportersindia.com/product_images/bc-full/2023/5/4241154/aashirvaad-1685433296_6914343_1827284.jpg",
+    "description": "Aashirvaad whole wheat chakki atta."
+  },
+  {
+    "name": "Fortune Sunlite Refined Sunflower Oil",
+    "category": "Cooking Oils",
+    "unit": "1 L",
+    "price": 190,
+    "stock": 26,
+    "image": "https://image.cdn.shpy.in/278008/SKU-0935_0-1745058569487.jpg?format=webp",
+    "description": "Fortune Sunlite refined sunflower cooking oil."
+  },
+  {
+    "name": "Everest Turmeric Powder",
+    "category": "Spices & Masala",
+    "unit": "200 g",
+    "price": 80,
+    "stock": 30,
+    "image": "https://cdn.dmart.in/images/products/IPowderMasala200gmEVRS3774xx281220_5_B.jpg",
+    "description": "Everest turmeric powder for everyday cooking."
+  },
+  {
+    "name": "MDH Garam Masala",
+    "category": "Spices & Masala",
+    "unit": "100 g",
+    "price": 95,
+    "stock": 22,
+    "image": "https://www.waangoo.com/cdn/shop/products/0014115_mdh-garam-masala.jpg?v=1694713401",
+    "description": "MDH garam masala spice blend."
+  },
+  {
+    "name": "Tata Salt",
+    "category": "Sugar, Salt & Sweeteners",
+    "unit": "1 kg",
+    "price": 28,
+    "stock": 40,
+    "image": "https://i.ebayimg.com/images/g/I~IAAOSwv7JlN~N6/s-l1200.jpg",
+    "description": "Tata iodised salt for everyday cooking."
+  },
+  {
+    "name": "Haldiram's Aloo Bhujia",
+    "category": "Snacks & Namkeen",
+    "unit": "400 g",
+    "price": 99,
+    "stock": 20,
+    "image": "https://www.vishalmegamart.com/dw/image/v2/BGHT_PRD/on/demandware.static/-/Sites-vmm-fmcg-master-catalog/default/dw25ff22f8/images/large/1310003724.jpg?sh=900&sw=900",
+    "description": "Popular Haldiram's aloo bhujia namkeen."
+  },
+  {
+    "name": "Britannia Good Day Butter Cookies",
+    "category": "Biscuits & Cookies",
+    "unit": "200 g",
+    "price": 40,
+    "stock": 32,
+    "image": "https://www.jiomart.com/images/product/original/491551977/britannia-good-day-butter-cookies-200-g-product-images-o491551977-p491551977-0-202311281825.jpg?im=Resize%3D%281000%2C1000%29",
+    "description": "Britannia Good Day butter cookies."
+  },
+  {
+    "name": "Oreo Original Vanilla Creme Biscuits",
+    "category": "Biscuits & Cookies",
+    "unit": "120 g",
+    "price": 35,
+    "stock": 28,
+    "image": "https://cdn.grofers.com/da/cms-assets/cms/product/8b2a0b88-18c6-4815-8fb8-9f98b3e49909.jpg",
+    "description": "Oreo chocolate sandwich biscuits with vanilla creme."
+  },
+  {
+    "name": "Tata Tea Premium",
+    "category": "Beverages",
+    "unit": "500 g",
+    "price": 243,
+    "stock": 18,
+    "image": "https://image.aapkabazar.co/product/557/1776237834298.jpg?type=png",
+    "description": "Tata Tea Premium Desh Ki Chai."
+  },
+  {
+    "name": "Coca-Cola Original Taste",
+    "category": "Beverages",
+    "unit": "750 ml",
+    "price": 40,
+    "stock": 36,
+    "image": "https://www.mystore.in/s/62ea2c599d1398fa16dbae0a/67b38c0475b96142190b0147/8901764012273_1.png",
+    "description": "Coca-Cola Original Taste PET bottle."
+  },
+  {
+    "name": "Maggi 2-Minute Masala Noodles",
+    "category": "Instant & Packaged Foods",
+    "unit": "70 g",
+    "price": 14,
+    "stock": 45,
+    "image": "https://cdn.taw9eel.com/media/catalog/product/cache/1/image/519x/9df78eab33525d08d6e5fb8d27136e95/n/s/nstk2083.jpg",
+    "description": "Maggi 2-Minute masala instant noodles."
+  },
+  {
+    "name": "Colgate Strong Teeth Toothpaste",
+    "category": "Personal Care",
+    "unit": "200 g",
+    "price": 105,
+    "stock": 22,
+    "image": "https://www.gandhi-bazar.com/cdn/shop/products/colgate-strong-teeth-anticavity-toothpaste-200g.jpg?v=1616096406",
+    "description": "Colgate Strong Teeth anticavity toothpaste."
+  },
+  {
+    "name": "Dove Daily Shine Shampoo",
+    "category": "Personal Care",
+    "unit": "340 ml",
+    "price": 260,
+    "stock": 16,
+    "image": "https://lsmedia.linker-cdn.net/285466/2022/7497597.jpeg",
+    "description": "Dove Daily Shine shampoo."
+  },
+  {
+    "name": "Dettol Original Bath Soap",
+    "category": "Personal Care",
+    "unit": "125 g",
+    "price": 55,
+    "stock": 28,
+    "image": "https://cdn.mafrservices.com/pim-content/KEN/media/product/201793/201793_main.jpg?im=Resize%3D480",
+    "description": "Dettol Original germ defence bath soap."
+  },
+  {
+    "name": "Surf Excel Easy Wash Detergent Powder",
+    "category": "Home Cleaning",
+    "unit": "1 kg",
+    "price": 140,
+    "stock": 24,
+    "image": "https://cdn.grofers.com/da/cms-assets/cms/product/25ca9930-0433-4f51-b202-29ecc5052dc7.jpg",
+    "description": "Surf Excel Easy Wash detergent powder."
+  },
+  {
+    "name": "Harpic Power Plus Original Toilet Cleaner",
+    "category": "Home Cleaning",
+    "unit": "1 L",
+    "price": 220,
+    "stock": 18,
+    "image": "https://prod-waitrose.azureedge.net/media/images/products/2025/06/6295120013052.jpg",
+    "description": "Harpic Power Plus original toilet cleaner."
+  },
+  {
+    "name": "Pampers Baby-Dry Pants Medium",
+    "category": "Baby Care",
+    "unit": "34 pcs",
+    "price": 395,
+    "stock": 14,
+    "image": "https://media-v4.edamama.ph/products/Baby%20Dry%20Pants%20Value%20Medium%20%2834%20pcs%29_1600312353748.jpg",
+    "description": "Pampers Baby-Dry pants medium pack."
+  },
+  {
+    "name": "Johnson's Baby Powder",
+    "category": "Baby Care",
+    "unit": "200 g",
+    "price": 200,
+    "stock": 18,
+    "image": "https://rukmini1.flixcart.com/image/1500/1500/jtaed8w0/talc/p/6/k/200-baby-powder-200g-johnson-original-imafen96edpspwzk.jpeg?q=70",
+    "description": "Johnson's baby powder 200 g."
+  },
+  {
+    "name": "Cycle Three In One Agarbatti",
+    "category": "Pooja & Devotional",
+    "unit": "132 g",
+    "price": 65,
+    "stock": 20,
+    "image": "https://asset.sastasundar.com/incom/images/product/Cycle-Three-In-One-Pure-Agarbathies-SereneYugantar--Jagrane-Free-Match-Box-1622444030-10086600-1.jpg",
+    "description": "Cycle Three In One pure agarbathies."
+  },
+  {
+    "name": "Good Knight Gold Flash Refill",
+    "category": "Household Essentials",
+    "unit": "2 x 45 ml",
+    "price": 150,
+    "stock": 16,
+    "image": "https://classicderma.com/cdn/shop/files/DR231127_1.jpg?v=1745740159",
+    "description": "Good Knight Gold Flash liquid vapouriser refill twin pack."
+  },
+  {
+    "name": "Classmate Spiral Notebook",
+    "category": "Stationery",
+    "unit": "200 pages",
+    "price": 60,
+    "stock": 25,
+    "image": "https://statmo.in/wp-content/uploads/2017/12/Classmate-Spiral-Notebook-200-Pages-600x607.jpg",
+    "description": "Classmate spiral notebook, single line, 200 pages."
+  },
+  {
+    "name": "Parachute 100% Pure Coconut Oil",
+    "category": "Personal Care",
+    "unit": "500 ml",
+    "price": 210,
+    "stock": 20,
+    "image": "https://tovar.uz/images/company/444/tovar/92748/o_642d2a5934fc3.jpg",
+    "description": "Popular Parachute coconut oil for daily hair care."
+  },
+  {
+    "name": "Bajaj Almond Drops Hair Oil",
+    "category": "Personal Care",
+    "unit": "285 ml",
+    "price": 245,
+    "stock": 18,
+    "image": "https://images.apollo247.in/pub/media/catalog/product/B/A/BAJ0022_1-JULY23_1.jpg",
+    "description": "Non-sticky almond hair oil with vitamin E."
+  },
+  {
+    "name": "Fortune Suji / Sooji",
+    "category": "Flour & Atta",
+    "unit": "500 g",
+    "price": 45,
+    "stock": 28,
+    "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy%2Cf_auto%2Cq_auto%2Cw_1200%2Ch_630/NI_CATALOG/IMAGES/ciw/2025/12/16/cddcff78-b5a0-46ee-bca6-ddeabcff269d_0PLW60VA9S_MN_15122025.png",
+    "description": "Semolina/rava for upma, halwa and everyday cooking."
+  },
+  {
+    "name": "Tata Sampann High Fibre Poha",
+    "category": "Rice & Grains",
+    "unit": "500 g",
+    "price": 65,
+    "stock": 26,
+    "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy%2Cf_auto%2Cq_auto%2Ch_600/NI_CATALOG/IMAGES/CIW/2024/11/15/a251aef1-d26b-4262-88fb-1edc06efc44f_2662_1.png",
+    "description": "Flattened rice/poha for breakfast and snacks."
+  },
+  {
+    "name": "Madhur Pure & Hygienic Sugar",
+    "category": "Sugar, Salt & Sweeteners",
+    "unit": "1 kg",
+    "price": 65,
+    "stock": 35,
+    "image": "https://www.madhursugar.com/assets/images/adv-pack-blue.png",
+    "description": "Refined white sugar for tea, coffee, sweets and daily cooking."
+  },
+  {
+    "name": "Fortune Superfine Besan",
+    "category": "Flour & Atta",
+    "unit": "500 g",
+    "price": 85,
+    "stock": 24,
+    "image": "https://www.jiomart.com/images/product/original/491110230/fortune-superfine-besan-500-g-product-images-o491110230-p491110230-0-202203170335.jpg?im=Resize%3D%281000%2C1000%29",
+    "description": "100% chana dal gram flour for pakoda, chilla and sweets."
+  },
+  {
+    "name": "Everest Coriander Powder",
+    "category": "Spices & Masala",
+    "unit": "100 g",
+    "price": 44,
+    "stock": 30,
+    "image": "https://down-id.img.susercontent.com/file/sg-11134201-22110-x0a319d0yqjv19",
+    "description": "Dhania powder for curries, gravies and everyday seasoning."
+  },
+  {
+    "name": "Catch Jeera Powder",
+    "category": "Spices & Masala",
+    "unit": "100 g",
+    "price": 80,
+    "stock": 24,
+    "image": "https://img.joomcdn.net/f5a6a70559c08b3b941143415c7fbda732f34041_1024_1024.jpeg",
+    "description": "Cumin/jeera powder for dals, curries and spice blends."
+  },
+  {
+    "name": "Fortune Kachi Ghani Mustard Oil",
+    "category": "Cooking Oils",
+    "unit": "1 L",
+    "price": 225,
+    "stock": 18,
+    "image": "https://kunaic.com/public/uploads/media/kYekbrQJIpnjMj9PY5zG-1772637007.webp",
+    "description": "Mustard oil for curries, frying, tadka and pickles."
+  },
+  {
+    "name": "Sona Masoori Rice",
+    "category": "Rice & Grains",
+    "unit": "5 kg",
+    "price": 340,
+    "stock": 40,
+    "image": "/static/images/products/sona-masoori-rice.png",
+    "description": "Sona Masoori Rice - quality daily essential for your home."
+  },
+  {
+    "name": "Basmati Rice",
+    "category": "Rice & Grains",
+    "unit": "5 kg",
+    "price": 690,
+    "stock": 28,
+    "image": "/static/images/products/basmati-rice.png",
+    "description": "Basmati Rice - quality daily essential for your home."
+  },
+  {
+    "name": "Idli Rice",
+    "category": "Rice & Grains",
+    "unit": "5 kg",
+    "price": 390,
+    "stock": 24,
+    "image": "/static/images/products/idli-rice.png",
+    "description": "Idli Rice - quality daily essential for your home."
+  },
+  {
+    "name": "Brown Rice",
+    "category": "Rice & Grains",
+    "unit": "1 kg",
+    "price": 145,
+    "stock": 20,
+    "image": "/static/images/products/brown-rice.png",
+    "description": "Brown Rice - quality daily essential for your home."
+  },
+  {
+    "name": "Flattened Rice Poha",
+    "category": "Rice & Grains",
+    "unit": "1 kg",
+    "price": 78,
+    "stock": 30,
+    "image": "/static/images/products/flattened-rice-poha.png",
+    "description": "Flattened Rice Poha - quality daily essential for your home."
+  },
+  {
+    "name": "Sooji Rava",
+    "category": "Rice & Grains",
+    "unit": "1 kg",
+    "price": 62,
+    "stock": 35,
+    "image": "/static/images/products/sooji-rava.png",
+    "description": "Sooji Rava - quality daily essential for your home."
+  },
+  {
+    "name": "Sabudana",
+    "category": "Rice & Grains",
+    "unit": "500 g",
+    "price": 68,
+    "stock": 22,
+    "image": "/static/images/products/sabudana.png",
+    "description": "Sabudana - quality daily essential for your home."
+  },
+  {
+    "name": "Broken Wheat Dalia",
+    "category": "Rice & Grains",
+    "unit": "1 kg",
+    "price": 72,
+    "stock": 20,
+    "image": "/static/images/products/broken-wheat-dalia.png",
+    "description": "Broken Wheat Dalia - quality daily essential for your home."
+  },
+  {
+    "name": "Toor Dal",
+    "category": "Pulses & Dal",
+    "unit": "1 kg",
+    "price": 168,
+    "stock": 32,
+    "image": "/static/images/products/toor-dal.png",
+    "description": "Toor Dal - quality daily essential for your home."
+  },
+  {
+    "name": "Moong Dal",
+    "category": "Pulses & Dal",
+    "unit": "1 kg",
+    "price": 152,
+    "stock": 28,
+    "image": "/static/images/products/moong-dal.png",
+    "description": "Moong Dal - quality daily essential for your home."
+  },
+  {
+    "name": "Urad Dal",
+    "category": "Pulses & Dal",
+    "unit": "1 kg",
+    "price": 178,
+    "stock": 25,
+    "image": "/static/images/products/urad-dal.png",
+    "description": "Urad Dal - quality daily essential for your home."
+  },
+  {
+    "name": "Chana Dal",
+    "category": "Pulses & Dal",
+    "unit": "1 kg",
+    "price": 112,
+    "stock": 30,
+    "image": "/static/images/products/chana-dal.png",
+    "description": "Chana Dal - quality daily essential for your home."
+  },
+  {
+    "name": "Masoor Dal",
+    "category": "Pulses & Dal",
+    "unit": "1 kg",
+    "price": 138,
+    "stock": 24,
+    "image": "/static/images/products/masoor-dal.png",
+    "description": "Masoor Dal - quality daily essential for your home."
+  },
+  {
+    "name": "Kabuli Chana",
+    "category": "Pulses & Dal",
+    "unit": "1 kg",
+    "price": 164,
+    "stock": 18,
+    "image": "/static/images/products/kabuli-chana.png",
+    "description": "Kabuli Chana - quality daily essential for your home."
+  },
+  {
+    "name": "Black Chana",
+    "category": "Pulses & Dal",
+    "unit": "1 kg",
+    "price": 104,
+    "stock": 22,
+    "image": "/static/images/products/black-chana.png",
+    "description": "Black Chana - quality daily essential for your home."
+  },
+  {
+    "name": "Rajma",
+    "category": "Pulses & Dal",
+    "unit": "1 kg",
+    "price": 176,
+    "stock": 18,
+    "image": "/static/images/products/rajma.png",
+    "description": "Rajma - quality daily essential for your home."
+  },
+  {
+    "name": "Whole Wheat Atta",
+    "category": "Flour & Atta",
+    "unit": "5 kg",
+    "price": 285,
+    "stock": 36,
+    "image": "/static/images/products/whole-wheat-atta.png",
+    "description": "Whole Wheat Atta - quality daily essential for your home."
+  },
+  {
+    "name": "Maida",
+    "category": "Flour & Atta",
+    "unit": "1 kg",
+    "price": 58,
+    "stock": 28,
+    "image": "/static/images/products/maida.png",
+    "description": "Maida - quality daily essential for your home."
+  },
+  {
+    "name": "Besan",
+    "category": "Flour & Atta",
+    "unit": "1 kg",
+    "price": 112,
+    "stock": 22,
+    "image": "/static/images/products/besan.png",
+    "description": "Besan - quality daily essential for your home."
+  },
+  {
+    "name": "Rice Flour",
+    "category": "Flour & Atta",
+    "unit": "1 kg",
+    "price": 72,
+    "stock": 24,
+    "image": "/static/images/products/rice-flour.png",
+    "description": "Rice Flour - quality daily essential for your home."
+  },
+  {
+    "name": "Ragi Flour",
+    "category": "Flour & Atta",
+    "unit": "1 kg",
+    "price": 82,
+    "stock": 18,
+    "image": "/static/images/products/ragi-flour.png",
+    "description": "Ragi Flour - quality daily essential for your home."
+  },
+  {
+    "name": "Jowar Flour",
+    "category": "Flour & Atta",
+    "unit": "1 kg",
+    "price": 88,
+    "stock": 16,
+    "image": "/static/images/products/jowar-flour.png",
+    "description": "Jowar Flour - quality daily essential for your home."
+  },
+  {
+    "name": "Corn Flour",
+    "category": "Flour & Atta",
+    "unit": "500 g",
+    "price": 54,
+    "stock": 20,
+    "image": "/static/images/products/corn-flour.png",
+    "description": "Corn Flour - quality daily essential for your home."
+  },
+  {
+    "name": "Sunflower Oil",
+    "category": "Cooking Oils",
+    "unit": "1 L",
+    "price": 148,
+    "stock": 35,
+    "image": "/static/images/products/sunflower-oil.png",
+    "description": "Sunflower Oil - quality daily essential for your home."
+  },
+  {
+    "name": "Groundnut Oil",
+    "category": "Cooking Oils",
+    "unit": "1 L",
+    "price": 186,
+    "stock": 24,
+    "image": "/static/images/products/groundnut-oil.png",
+    "description": "Groundnut Oil - quality daily essential for your home."
+  },
+  {
+    "name": "Rice Bran Oil",
+    "category": "Cooking Oils",
+    "unit": "1 L",
+    "price": 158,
+    "stock": 22,
+    "image": "/static/images/products/rice-bran-oil.png",
+    "description": "Rice Bran Oil - quality daily essential for your home."
+  },
+  {
+    "name": "Mustard Oil",
+    "category": "Cooking Oils",
+    "unit": "1 L",
+    "price": 172,
+    "stock": 18,
+    "image": "/static/images/products/mustard-oil.png",
+    "description": "Mustard Oil - quality daily essential for your home."
+  },
+  {
+    "name": "Sesame Oil",
+    "category": "Cooking Oils",
+    "unit": "500 ml",
+    "price": 164,
+    "stock": 14,
+    "image": "/static/images/products/sesame-oil.png",
+    "description": "Sesame Oil - quality daily essential for your home."
+  },
+  {
+    "name": "Coconut Oil",
+    "category": "Cooking Oils",
+    "unit": "500 ml",
+    "price": 142,
+    "stock": 20,
+    "image": "/static/images/products/coconut-oil.png",
+    "description": "Coconut Oil - quality daily essential for your home."
+  },
+  {
+    "name": "Soybean Oil",
+    "category": "Cooking Oils",
+    "unit": "1 L",
+    "price": 136,
+    "stock": 18,
+    "image": "/static/images/products/soybean-oil.png",
+    "description": "Soybean Oil - quality daily essential for your home."
+  },
+  {
+    "name": "Turmeric Powder",
+    "category": "Spices & Masala",
+    "unit": "200 g",
+    "price": 62,
+    "stock": 30,
+    "image": "/static/images/products/turmeric-powder.png",
+    "description": "Turmeric Powder - quality daily essential for your home."
+  },
+  {
+    "name": "Red Chilli Powder",
+    "category": "Spices & Masala",
+    "unit": "200 g",
+    "price": 84,
+    "stock": 28,
+    "image": "/static/images/products/red-chilli-powder.png",
+    "description": "Red Chilli Powder - quality daily essential for your home."
+  },
+  {
+    "name": "Coriander Powder",
+    "category": "Spices & Masala",
+    "unit": "200 g",
+    "price": 66,
+    "stock": 25,
+    "image": "/static/images/products/coriander-powder.png",
+    "description": "Coriander Powder - quality daily essential for your home."
+  },
+  {
+    "name": "Cumin Seeds",
+    "category": "Spices & Masala",
+    "unit": "100 g",
+    "price": 58,
+    "stock": 24,
+    "image": "/static/images/products/cumin-seeds.png",
+    "description": "Cumin Seeds - quality daily essential for your home."
+  },
+  {
+    "name": "Mustard Seeds",
+    "category": "Spices & Masala",
+    "unit": "100 g",
+    "price": 34,
+    "stock": 25,
+    "image": "/static/images/products/mustard-seeds.png",
+    "description": "Mustard Seeds - quality daily essential for your home."
+  },
+  {
+    "name": "Garam Masala",
+    "category": "Spices & Masala",
+    "unit": "100 g",
+    "price": 78,
+    "stock": 18,
+    "image": "/static/images/products/garam-masala.png",
+    "description": "Garam Masala - quality daily essential for your home."
+  },
+  {
+    "name": "Sambar Masala",
+    "category": "Spices & Masala",
+    "unit": "100 g",
+    "price": 72,
+    "stock": 20,
+    "image": "/static/images/products/sambar-masala.png",
+    "description": "Sambar Masala - quality daily essential for your home."
+  },
+  {
+    "name": "Chicken Masala",
+    "category": "Spices & Masala",
+    "unit": "100 g",
+    "price": 76,
+    "stock": 20,
+    "image": "/static/images/products/chicken-masala.png",
+    "description": "Chicken Masala - quality daily essential for your home."
+  },
+  {
+    "name": "Biryani Masala",
+    "category": "Spices & Masala",
+    "unit": "100 g",
+    "price": 82,
+    "stock": 18,
+    "image": "/static/images/products/biryani-masala.png",
+    "description": "Biryani Masala - quality daily essential for your home."
+  },
+  {
+    "name": "Black Pepper",
+    "category": "Spices & Masala",
+    "unit": "100 g",
+    "price": 96,
+    "stock": 15,
+    "image": "/static/images/products/black-pepper.png",
+    "description": "Black Pepper - quality daily essential for your home."
+  },
+  {
+    "name": "Iodized Salt",
+    "category": "Sugar, Salt & Sweeteners",
+    "unit": "1 kg",
+    "price": 30,
+    "stock": 40,
+    "image": "/static/images/products/iodized-salt.png",
+    "description": "Iodized Salt - quality daily essential for your home."
+  },
+  {
+    "name": "Crystal Salt",
+    "category": "Sugar, Salt & Sweeteners",
+    "unit": "1 kg",
+    "price": 28,
+    "stock": 25,
+    "image": "/static/images/products/crystal-salt.png",
+    "description": "Crystal Salt - quality daily essential for your home."
+  },
+  {
+    "name": "White Sugar",
+    "category": "Sugar, Salt & Sweeteners",
+    "unit": "1 kg",
+    "price": 49,
+    "stock": 38,
+    "image": "/static/images/products/white-sugar.png",
+    "description": "White Sugar - quality daily essential for your home."
+  },
+  {
+    "name": "Jaggery Powder",
+    "category": "Sugar, Salt & Sweeteners",
+    "unit": "500 g",
+    "price": 78,
+    "stock": 20,
+    "image": "/static/images/products/jaggery-powder.png",
+    "description": "Jaggery Powder - quality daily essential for your home."
+  },
+  {
+    "name": "Brown Sugar",
+    "category": "Sugar, Salt & Sweeteners",
+    "unit": "500 g",
+    "price": 92,
+    "stock": 16,
+    "image": "/static/images/products/brown-sugar.png",
+    "description": "Brown Sugar - quality daily essential for your home."
+  },
+  {
+    "name": "Classic Potato Chips",
+    "category": "Snacks & Namkeen",
+    "unit": "90 g",
+    "price": 45,
+    "stock": 30,
+    "image": "/static/images/products/classic-potato-chips.png",
+    "description": "Classic Potato Chips - quality daily essential for your home."
+  },
+  {
+    "name": "Masala Chips",
+    "category": "Snacks & Namkeen",
+    "unit": "90 g",
+    "price": 45,
+    "stock": 30,
+    "image": "/static/images/products/masala-chips.png",
+    "description": "Masala Chips - quality daily essential for your home."
+  },
+  {
+    "name": "Salted Peanuts",
+    "category": "Snacks & Namkeen",
+    "unit": "200 g",
+    "price": 64,
+    "stock": 24,
+    "image": "/static/images/products/salted-peanuts.png",
+    "description": "Salted Peanuts - quality daily essential for your home."
+  },
+  {
+    "name": "Mixture Namkeen",
+    "category": "Snacks & Namkeen",
+    "unit": "250 g",
+    "price": 78,
+    "stock": 20,
+    "image": "/static/images/products/mixture-namkeen.png",
+    "description": "Mixture Namkeen - quality daily essential for your home."
+  },
+  {
+    "name": "Bhujia",
+    "category": "Snacks & Namkeen",
+    "unit": "200 g",
+    "price": 72,
+    "stock": 22,
+    "image": "/static/images/products/bhujia.png",
+    "description": "Bhujia - quality daily essential for your home."
+  },
+  {
+    "name": "Murukku",
+    "category": "Snacks & Namkeen",
+    "unit": "200 g",
+    "price": 85,
+    "stock": 18,
+    "image": "/static/images/products/murukku.png",
+    "description": "Murukku - quality daily essential for your home."
+  },
+  {
+    "name": "Roasted Chana",
+    "category": "Snacks & Namkeen",
+    "unit": "250 g",
+    "price": 68,
+    "stock": 22,
+    "image": "/static/images/products/roasted-chana.png",
+    "description": "Roasted Chana - quality daily essential for your home."
+  },
+  {
+    "name": "Popcorn Kernels",
+    "category": "Snacks & Namkeen",
+    "unit": "500 g",
+    "price": 92,
+    "stock": 15,
+    "image": "/static/images/products/popcorn-kernels.png",
+    "description": "Popcorn Kernels - quality daily essential for your home."
+  },
+  {
+    "name": "Marie Biscuits",
+    "category": "Biscuits & Cookies",
+    "unit": "250 g",
+    "price": 40,
+    "stock": 32,
+    "image": "/static/images/products/marie-biscuits.png",
+    "description": "Marie Biscuits - quality daily essential for your home."
+  },
+  {
+    "name": "Glucose Biscuits",
+    "category": "Biscuits & Cookies",
+    "unit": "250 g",
+    "price": 35,
+    "stock": 36,
+    "image": "/static/images/products/glucose-biscuits.png",
+    "description": "Glucose Biscuits - quality daily essential for your home."
+  },
+  {
+    "name": "Cream Biscuits",
+    "category": "Biscuits & Cookies",
+    "unit": "200 g",
+    "price": 55,
+    "stock": 24,
+    "image": "/static/images/products/cream-biscuits.png",
+    "description": "Cream Biscuits - quality daily essential for your home."
+  },
+  {
+    "name": "Digestive Biscuits",
+    "category": "Biscuits & Cookies",
+    "unit": "250 g",
+    "price": 75,
+    "stock": 20,
+    "image": "/static/images/products/digestive-biscuits.png",
+    "description": "Digestive Biscuits - quality daily essential for your home."
+  },
+  {
+    "name": "Salt Crackers",
+    "category": "Biscuits & Cookies",
+    "unit": "200 g",
+    "price": 48,
+    "stock": 24,
+    "image": "/static/images/products/salt-crackers.png",
+    "description": "Salt Crackers - quality daily essential for your home."
+  },
+  {
+    "name": "Butter Cookies",
+    "category": "Biscuits & Cookies",
+    "unit": "200 g",
+    "price": 90,
+    "stock": 18,
+    "image": "/static/images/products/butter-cookies.png",
+    "description": "Butter Cookies - quality daily essential for your home."
+  },
+  {
+    "name": "Premium Tea Powder",
+    "category": "Beverages",
+    "unit": "500 g",
+    "price": 235,
+    "stock": 24,
+    "image": "/static/images/products/premium-tea-powder.png",
+    "description": "Premium Tea Powder - quality daily essential for your home."
+  },
+  {
+    "name": "Instant Coffee",
+    "category": "Beverages",
+    "unit": "100 g",
+    "price": 165,
+    "stock": 20,
+    "image": "/static/images/products/instant-coffee.png",
+    "description": "Instant Coffee - quality daily essential for your home."
+  },
+  {
+    "name": "Filter Coffee Powder",
+    "category": "Beverages",
+    "unit": "250 g",
+    "price": 190,
+    "stock": 16,
+    "image": "/static/images/products/filter-coffee-powder.png",
+    "description": "Filter Coffee Powder - quality daily essential for your home."
+  },
+  {
+    "name": "Green Tea Bags",
+    "category": "Beverages",
+    "unit": "25 bags",
+    "price": 135,
+    "stock": 14,
+    "image": "/static/images/products/green-tea-bags.png",
+    "description": "Green Tea Bags - quality daily essential for your home."
+  },
+  {
+    "name": "Packaged Drinking Water",
+    "category": "Beverages",
+    "unit": "1 L",
+    "price": 20,
+    "stock": 40,
+    "image": "/static/images/products/packaged-drinking-water.png",
+    "description": "Packaged Drinking Water - quality daily essential for your home."
+  },
+  {
+    "name": "Club Soda",
+    "category": "Beverages",
+    "unit": "750 ml",
+    "price": 45,
+    "stock": 20,
+    "image": "/static/images/products/club-soda.png",
+    "description": "Club Soda - quality daily essential for your home."
+  },
+  {
+    "name": "Energy Drink",
+    "category": "Beverages",
+    "unit": "250 ml",
+    "price": 110,
+    "stock": 15,
+    "image": "/static/images/products/energy-drink.png",
+    "description": "Energy Drink - quality daily essential for your home."
+  },
+  {
+    "name": "Soft Drink Cola",
+    "category": "Beverages",
+    "unit": "750 ml",
+    "price": 45,
+    "stock": 24,
+    "image": "/static/images/products/soft-drink-cola.png",
+    "description": "Soft Drink Cola - quality daily essential for your home."
+  },
+  {
+    "name": "Instant Noodles",
+    "category": "Instant & Packaged Foods",
+    "unit": "280 g",
+    "price": 58,
+    "stock": 30,
+    "image": "/static/images/products/instant-noodles.png",
+    "description": "Instant Noodles - quality daily essential for your home."
+  },
+  {
+    "name": "Masala Oats",
+    "category": "Instant & Packaged Foods",
+    "unit": "500 g",
+    "price": 145,
+    "stock": 20,
+    "image": "/static/images/products/masala-oats.png",
+    "description": "Masala Oats - quality daily essential for your home."
+  },
+  {
+    "name": "Plain Oats",
+    "category": "Instant & Packaged Foods",
+    "unit": "1 kg",
+    "price": 210,
+    "stock": 18,
+    "image": "/static/images/products/plain-oats.png",
+    "description": "Plain Oats - quality daily essential for your home."
+  },
+  {
+    "name": "Vermicelli",
+    "category": "Instant & Packaged Foods",
+    "unit": "500 g",
+    "price": 58,
+    "stock": 24,
+    "image": "/static/images/products/vermicelli.png",
+    "description": "Vermicelli - quality daily essential for your home."
+  },
+  {
+    "name": "Pasta",
+    "category": "Instant & Packaged Foods",
+    "unit": "500 g",
+    "price": 92,
+    "stock": 20,
+    "image": "/static/images/products/pasta.png",
+    "description": "Pasta - quality daily essential for your home."
+  },
+  {
+    "name": "Corn Flakes",
+    "category": "Instant & Packaged Foods",
+    "unit": "475 g",
+    "price": 198,
+    "stock": 15,
+    "image": "/static/images/products/corn-flakes.png",
+    "description": "Corn Flakes - quality daily essential for your home."
+  },
+  {
+    "name": "Papad",
+    "category": "Instant & Packaged Foods",
+    "unit": "200 g",
+    "price": 72,
+    "stock": 18,
+    "image": "/static/images/products/papad.png",
+    "description": "Papad - quality daily essential for your home."
+  },
+  {
+    "name": "Ready Upma Mix",
+    "category": "Instant & Packaged Foods",
+    "unit": "500 g",
+    "price": 115,
+    "stock": 16,
+    "image": "/static/images/products/ready-upma-mix.png",
+    "description": "Ready Upma Mix - quality daily essential for your home."
+  },
+  {
+    "name": "Bath Soap Pack",
+    "category": "Personal Care",
+    "unit": "4 x 100 g",
+    "price": 168,
+    "stock": 25,
+    "image": "/static/images/products/bath-soap-pack.png",
+    "description": "Bath Soap Pack - quality daily essential for your home."
+  },
+  {
+    "name": "Shampoo",
+    "category": "Personal Care",
+    "unit": "340 ml",
+    "price": 225,
+    "stock": 18,
+    "image": "/static/images/products/shampoo.png",
+    "description": "Shampoo - quality daily essential for your home."
+  },
+  {
+    "name": "Hair Oil",
+    "category": "Personal Care",
+    "unit": "300 ml",
+    "price": 154,
+    "stock": 20,
+    "image": "/static/images/products/hair-oil.png",
+    "description": "Hair Oil - quality daily essential for your home."
+  },
+  {
+    "name": "Toothpaste",
+    "category": "Personal Care",
+    "unit": "200 g",
+    "price": 118,
+    "stock": 26,
+    "image": "/static/images/products/toothpaste.png",
+    "description": "Toothpaste - quality daily essential for your home."
+  },
+  {
+    "name": "Toothbrush Pack",
+    "category": "Personal Care",
+    "unit": "3 pcs",
+    "price": 95,
+    "stock": 20,
+    "image": "/static/images/products/toothbrush-pack.png",
+    "description": "Toothbrush Pack - quality daily essential for your home."
+  },
+  {
+    "name": "Hand Wash",
+    "category": "Personal Care",
+    "unit": "250 ml",
+    "price": 88,
+    "stock": 18,
+    "image": "/static/images/products/hand-wash.png",
+    "description": "Hand Wash - quality daily essential for your home."
+  },
+  {
+    "name": "Face Wash",
+    "category": "Personal Care",
+    "unit": "100 ml",
+    "price": 165,
+    "stock": 14,
+    "image": "/static/images/products/face-wash.png",
+    "description": "Face Wash - quality daily essential for your home."
+  },
+  {
+    "name": "Talcum Powder",
+    "category": "Personal Care",
+    "unit": "200 g",
+    "price": 125,
+    "stock": 16,
+    "image": "/static/images/products/talcum-powder.png",
+    "description": "Talcum Powder - quality daily essential for your home."
+  },
+  {
+    "name": "Sanitary Pads",
+    "category": "Personal Care",
+    "unit": "15 pads",
+    "price": 145,
+    "stock": 20,
+    "image": "/static/images/products/sanitary-pads.png",
+    "description": "Sanitary Pads - quality daily essential for your home."
+  },
+  {
+    "name": "Shaving Cream",
+    "category": "Personal Care",
+    "unit": "100 g",
+    "price": 92,
+    "stock": 14,
+    "image": "/static/images/products/shaving-cream.png",
+    "description": "Shaving Cream - quality daily essential for your home."
+  },
+  {
+    "name": "Detergent Powder",
+    "category": "Home Cleaning",
+    "unit": "2 kg",
+    "price": 198,
+    "stock": 28,
+    "image": "/static/images/products/detergent-powder.png",
+    "description": "Detergent Powder - quality daily essential for your home."
+  },
+  {
+    "name": "Detergent Bar",
+    "category": "Home Cleaning",
+    "unit": "4 pcs",
+    "price": 78,
+    "stock": 30,
+    "image": "/static/images/products/detergent-bar.png",
+    "description": "Detergent Bar - quality daily essential for your home."
+  },
+  {
+    "name": "Dishwash Bar",
+    "category": "Home Cleaning",
+    "unit": "4 pcs",
+    "price": 72,
+    "stock": 28,
+    "image": "/static/images/products/dishwash-bar.png",
+    "description": "Dishwash Bar - quality daily essential for your home."
+  },
+  {
+    "name": "Dishwash Liquid",
+    "category": "Home Cleaning",
+    "unit": "500 ml",
+    "price": 112,
+    "stock": 20,
+    "image": "/static/images/products/dishwash-liquid.png",
+    "description": "Dishwash Liquid - quality daily essential for your home."
+  },
+  {
+    "name": "Floor Cleaner",
+    "category": "Home Cleaning",
+    "unit": "1 L",
+    "price": 178,
+    "stock": 18,
+    "image": "/static/images/products/floor-cleaner.png",
+    "description": "Floor Cleaner - quality daily essential for your home."
+  },
+  {
+    "name": "Toilet Cleaner",
+    "category": "Home Cleaning",
+    "unit": "500 ml",
+    "price": 105,
+    "stock": 20,
+    "image": "/static/images/products/toilet-cleaner.png",
+    "description": "Toilet Cleaner - quality daily essential for your home."
+  },
+  {
+    "name": "Glass Cleaner",
+    "category": "Home Cleaning",
+    "unit": "500 ml",
+    "price": 125,
+    "stock": 15,
+    "image": "/static/images/products/glass-cleaner.png",
+    "description": "Glass Cleaner - quality daily essential for your home."
+  },
+  {
+    "name": "Disinfectant Liquid",
+    "category": "Home Cleaning",
+    "unit": "500 ml",
+    "price": 138,
+    "stock": 16,
+    "image": "/static/images/products/disinfectant-liquid.png",
+    "description": "Disinfectant Liquid - quality daily essential for your home."
+  },
+  {
+    "name": "Garbage Bags",
+    "category": "Home Cleaning",
+    "unit": "30 bags",
+    "price": 110,
+    "stock": 18,
+    "image": "/static/images/products/garbage-bags.png",
+    "description": "Garbage Bags - quality daily essential for your home."
+  },
+  {
+    "name": "Scrub Pads",
+    "category": "Home Cleaning",
+    "unit": "5 pcs",
+    "price": 55,
+    "stock": 24,
+    "image": "/static/images/products/scrub-pads.png",
+    "description": "Scrub Pads - quality daily essential for your home."
+  },
+  {
+    "name": "Baby Diapers Small",
+    "category": "Baby Care",
+    "unit": "24 pcs",
+    "price": 315,
+    "stock": 14,
+    "image": "/static/images/products/baby-diapers-small.png",
+    "description": "Baby Diapers Small - quality daily essential for your home."
+  },
+  {
+    "name": "Baby Diapers Medium",
+    "category": "Baby Care",
+    "unit": "24 pcs",
+    "price": 345,
+    "stock": 14,
+    "image": "/static/images/products/baby-diapers-medium.png",
+    "description": "Baby Diapers Medium - quality daily essential for your home."
+  },
+  {
+    "name": "Baby Wipes",
+    "category": "Baby Care",
+    "unit": "72 wipes",
+    "price": 165,
+    "stock": 18,
+    "image": "/static/images/products/baby-wipes.png",
+    "description": "Baby Wipes - quality daily essential for your home."
+  },
+  {
+    "name": "Baby Soap",
+    "category": "Baby Care",
+    "unit": "75 g",
+    "price": 68,
+    "stock": 20,
+    "image": "/static/images/products/baby-soap.png",
+    "description": "Baby Soap - quality daily essential for your home."
+  },
+  {
+    "name": "Baby Shampoo",
+    "category": "Baby Care",
+    "unit": "200 ml",
+    "price": 178,
+    "stock": 14,
+    "image": "/static/images/products/baby-shampoo.png",
+    "description": "Baby Shampoo - quality daily essential for your home."
+  },
+  {
+    "name": "Baby Powder",
+    "category": "Baby Care",
+    "unit": "200 g",
+    "price": 152,
+    "stock": 14,
+    "image": "/static/images/products/baby-powder.png",
+    "description": "Baby Powder - quality daily essential for your home."
+  },
+  {
+    "name": "Baby Oil",
+    "category": "Baby Care",
+    "unit": "200 ml",
+    "price": 165,
+    "stock": 14,
+    "image": "/static/images/products/baby-oil.png",
+    "description": "Baby Oil - quality daily essential for your home."
+  },
+  {
+    "name": "Agarbatti",
+    "category": "Pooja & Devotional",
+    "unit": "100 sticks",
+    "price": 65,
+    "stock": 28,
+    "image": "/static/images/products/agarbatti.png",
+    "description": "Agarbatti - quality daily essential for your home."
+  },
+  {
+    "name": "Camphor",
+    "category": "Pooja & Devotional",
+    "unit": "100 g",
+    "price": 92,
+    "stock": 20,
+    "image": "/static/images/products/camphor.png",
+    "description": "Camphor - quality daily essential for your home."
+  },
+  {
+    "name": "Cotton Wicks",
+    "category": "Pooja & Devotional",
+    "unit": "100 pcs",
+    "price": 45,
+    "stock": 24,
+    "image": "/static/images/products/cotton-wicks.png",
+    "description": "Cotton Wicks - quality daily essential for your home."
+  },
+  {
+    "name": "Pooja Oil",
+    "category": "Pooja & Devotional",
+    "unit": "500 ml",
+    "price": 120,
+    "stock": 18,
+    "image": "/static/images/products/pooja-oil.png",
+    "description": "Pooja Oil - quality daily essential for your home."
+  },
+  {
+    "name": "Kumkum",
+    "category": "Pooja & Devotional",
+    "unit": "50 g",
+    "price": 35,
+    "stock": 20,
+    "image": "/static/images/products/kumkum.png",
+    "description": "Kumkum - quality daily essential for your home."
+  },
+  {
+    "name": "Turmeric Kumkum Set",
+    "category": "Pooja & Devotional",
+    "unit": "1 set",
+    "price": 55,
+    "stock": 16,
+    "image": "/static/images/products/turmeric-kumkum-set.png",
+    "description": "Turmeric Kumkum Set - quality daily essential for your home."
+  },
+  {
+    "name": "Incense Cones",
+    "category": "Pooja & Devotional",
+    "unit": "24 cones",
+    "price": 48,
+    "stock": 18,
+    "image": "/static/images/products/incense-cones.png",
+    "description": "Incense Cones - quality daily essential for your home."
+  },
+  {
+    "name": "Aluminium Foil",
+    "category": "Household Essentials",
+    "unit": "20 m",
+    "price": 125,
+    "stock": 16,
+    "image": "/static/images/products/aluminium-foil.png",
+    "description": "Aluminium Foil - quality daily essential for your home."
+  },
+  {
+    "name": "Cling Film",
+    "category": "Household Essentials",
+    "unit": "30 m",
+    "price": 95,
+    "stock": 15,
+    "image": "/static/images/products/cling-film.png",
+    "description": "Cling Film - quality daily essential for your home."
+  },
+  {
+    "name": "Paper Napkins",
+    "category": "Household Essentials",
+    "unit": "100 pcs",
+    "price": 72,
+    "stock": 24,
+    "image": "/static/images/products/paper-napkins.png",
+    "description": "Paper Napkins - quality daily essential for your home."
+  },
+  {
+    "name": "Kitchen Tissue Roll",
+    "category": "Household Essentials",
+    "unit": "2 rolls",
+    "price": 110,
+    "stock": 18,
+    "image": "/static/images/products/kitchen-tissue-roll.png",
+    "description": "Kitchen Tissue Roll - quality daily essential for your home."
+  },
+  {
+    "name": "Match Boxes",
+    "category": "Household Essentials",
+    "unit": "10 boxes",
+    "price": 35,
+    "stock": 30,
+    "image": "/static/images/products/match-boxes.png",
+    "description": "Match Boxes - quality daily essential for your home."
+  },
+  {
+    "name": "Mosquito Coil",
+    "category": "Household Essentials",
+    "unit": "10 coils",
+    "price": 58,
+    "stock": 24,
+    "image": "/static/images/products/mosquito-coil.png",
+    "description": "Mosquito Coil - quality daily essential for your home."
+  },
+  {
+    "name": "Mosquito Repellent Refill",
+    "category": "Household Essentials",
+    "unit": "45 ml",
+    "price": 82,
+    "stock": 20,
+    "image": "/static/images/products/mosquito-repellent-refill.png",
+    "description": "Mosquito Repellent Refill - quality daily essential for your home."
+  },
+  {
+    "name": "LED Bulb 9W",
+    "category": "Household Essentials",
+    "unit": "1 pc",
+    "price": 110,
+    "stock": 12,
+    "image": "/static/images/products/led-bulb-9w.png",
+    "description": "LED Bulb 9W - quality daily essential for your home."
+  },
+  {
+    "name": "AA Batteries",
+    "category": "Household Essentials",
+    "unit": "4 pcs",
+    "price": 95,
+    "stock": 16,
+    "image": "/static/images/products/aa-batteries.png",
+    "description": "AA Batteries - quality daily essential for your home."
+  },
+  {
+    "name": "Storage Bags",
+    "category": "Household Essentials",
+    "unit": "20 pcs",
+    "price": 85,
+    "stock": 16,
+    "image": "/static/images/products/storage-bags.png",
+    "description": "Storage Bags - quality daily essential for your home."
+  },
+  {
+    "name": "Ball Pens Pack",
+    "category": "Stationery",
+    "unit": "5 pcs",
+    "price": 50,
+    "stock": 20,
+    "image": "/static/images/products/ball-pens-pack.png",
+    "description": "Ball Pens Pack - quality daily essential for your home."
+  },
+  {
+    "name": "Notebook 200 Pages",
+    "category": "Stationery",
+    "unit": "1 pc",
+    "price": 65,
+    "stock": 18,
+    "image": "/static/images/products/notebook-200-pages.png",
+    "description": "Notebook 200 Pages - quality daily essential for your home."
+  },
+  {
+    "name": "A4 Sheets",
+    "category": "Stationery",
+    "unit": "100 sheets",
+    "price": 95,
+    "stock": 14,
+    "image": "/static/images/products/a4-sheets.png",
+    "description": "A4 Sheets - quality daily essential for your home."
+  },
+  {
+    "name": "Permanent Marker",
+    "category": "Stationery",
+    "unit": "1 pc",
+    "price": 35,
+    "stock": 18,
+    "image": "/static/images/products/permanent-marker.png",
+    "description": "Permanent Marker - quality daily essential for your home."
+  },
+  {
+    "name": "Glue Stick",
+    "category": "Stationery",
+    "unit": "1 pc",
+    "price": 40,
+    "stock": 16,
+    "image": "/static/images/products/glue-stick.png",
+    "description": "Glue Stick - quality daily essential for your home."
+  },
+  {
+    "name": "Pencil Pack",
+    "category": "Stationery",
+    "unit": "10 pcs",
+    "price": 55,
+    "stock": 18,
+    "image": "/static/images/products/pencil-pack.png",
+    "description": "Pencil Pack - quality daily essential for your home."
+  }
+]

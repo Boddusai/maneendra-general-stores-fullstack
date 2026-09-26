@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="220" viewBox="0 0 740 220">
+<rect width="740" height="220" rx="34" fill="#ffffff"/>
+<g transform="translate(28 25)">
+<circle cx="86" cy="86" r="78" fill="#0c7a43"/>
+<path d="M40 74h92l-10 55H52z" fill="#fff"/>
+<path d="M54 59h64l12 15H44z" fill="#f5a623"/>
+<rect x="58" y="82" width="20" height="34" rx="4" fill="#f5a623"/>
+<rect x="84" y="82" width="20" height="34" rx="4" fill="#e15c2a"/>
+<rect x="110" y="82" width="12" height="34" rx="4" fill="#2c78c4"/>
+<circle cx="62" cy="139" r="8" fill="#fff"/><circle cx="113" cy="139" r="8" fill="#fff"/>
+</g>
+<text x="210" y="92" font-family="Arial" font-size="48" font-weight="800" fill="#0c7a43">MANEENDRA</text>
+<text x="212" y="135" font-family="Arial" font-size="29" font-weight="700" fill="#8a4c16">GENERAL STORES</text>
+<text x="212" y="171" font-family="Arial" font-size="18" fill="#59636d">Groceries · Home Care · Personal Care · Daily Essentials</text>
+</svg>

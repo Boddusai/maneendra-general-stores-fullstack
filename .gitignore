@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode/
+# Do not publish customer/business data or local DB journals to GitHub.
+store.db
+store.db-wal
+store.db-shm
+# Runtime persistent files are handled by the Railway Volume.
+uploads/
+real-product-images/
