@@ -693,46 +693,56 @@ body:has(#requestModal:not(.hidden)) #accountModal{
   }
 }
 
+
 @media (max-width: 768px) {
   .header {
-    display: flex;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
     align-items: center;
-    flex-wrap: nowrap;
     gap: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
 
   .header-brand {
     display: flex;
     align-items: center;
-    flex: 1 1 auto;
     min-width: 0;
+    overflow: hidden;
   }
 
   .header-brand .logo {
-    width: 42px;
-    height: 42px;
-    flex-shrink: 0;
+    width: 38px;
+    height: 38px;
+    flex: 0 0 38px;
   }
 
   .header-brand > span {
+    display: flex;
+    flex-direction: column;
     min-width: 0;
+    margin-left: 6px;
   }
 
-  .header-brand b,
-  .header-brand small {
+  .header-brand b {
+    font-size: 15px;
+    line-height: 1.1;
     white-space: nowrap;
   }
 
-  .search {
-    display: none;
+  .header-brand small {
+    font-size: 10px;
+    line-height: 1.1;
+    white-space: nowrap;
   }
 
   .head-actions {
     display: flex;
     align-items: center;
+    justify-content: flex-end;
     flex-wrap: nowrap;
-    gap: 5px;
-    flex-shrink: 0;
+    gap: 4px;
+    min-width: max-content;
   }
 
   .head-actions .contact-head {
@@ -740,6 +750,29 @@ body:has(#requestModal:not(.hidden)) #accountModal{
   }
 
   .head-actions button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     white-space: nowrap;
+    padding: 7px 8px;
+    font-size: 12px;
+    margin: 0;
+  }
+
+  .search {
+    grid-column: 1 / -1;
+    display: flex;
+    width: 100%;
+    min-width: 0;
+  }
+
+  .search input {
+    flex: 1;
+    min-width: 0;
+    width: 100%;
+  }
+
+  .search button {
+    flex-shrink: 0;
   }
 }
